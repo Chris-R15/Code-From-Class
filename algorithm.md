@@ -1,4 +1,4 @@
-#Algorithms for String Reviews
+**Algorithms for String Reviews**
 ```strip list```
 
 
